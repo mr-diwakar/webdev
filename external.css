@@ -1,0 +1,12 @@
+*{
+    text-transform: uppercase;
+    text-align: center ;
+    background-color: black;
+    color: blue;
+}
+h6{
+    text-transform: capitalize;
+    text-align : center ;
+    background-color:brown ;
+    color:black ;
+}
